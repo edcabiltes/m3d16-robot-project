@@ -17,4 +17,3 @@ export function buildGraph(edges) {
     return graph;
 }
 
-console.log(buildGraph(roads));
